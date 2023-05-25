@@ -18,3 +18,5 @@ Projeto desenvolvido na disciplina de Sistemas Distribuídos no período 2023.2.
 
 # Tutorias Java GUI
 https://youtu.be/9t9qTiSpE40
+https://youtu.be/utGrx5nnJBs
+https://youtu.be/q2voOR8lx10
