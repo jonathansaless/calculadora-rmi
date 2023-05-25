@@ -8,3 +8,13 @@ Projeto desenvolvido na disciplina de Sistemas Distribuídos no período 2023.2.
 ## Servidor
 
 ## Cliente
+
+
+
+
+# Interfaces Gráfica de Usuário (Java)
+- Swing (provavelmente a que será utilizada)
+- Java 
+
+# Tutorias Java GUI
+https://youtu.be/9t9qTiSpE40
